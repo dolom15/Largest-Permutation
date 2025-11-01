@@ -1,1 +1,1 @@
-# Largest-Permutation
+# Largest-Permutation This code produces the largest lexicographical permutation of an array by performing at most `k` swaps, placing the largest possible numbers in the earliest positions. It uses a position-tracking array to efficiently locate elements for swapping and updates positions after each swap to minimize operations.
